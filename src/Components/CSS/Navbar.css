@@ -1,0 +1,12 @@
+.Navbar{
+    background-color: #6049ea;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Navbar_Toggle{
+    background-color: rgb(209, 29, 29);
+    border-radius: 25%;
+    height: 50px;
+    width: 100px;
+}
