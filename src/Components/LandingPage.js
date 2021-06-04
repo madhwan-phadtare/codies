@@ -5,7 +5,7 @@ import landing from '../Static/landing.gif'
 function LandingPage() {
     return (
         <div className="Landing">
-            <img src={landing} alt="hello"></img>
+            <img src={landing} alt="hello" className="landimg"></img>
             <h1>LEARN.CREATE.EARN</h1>
         </div>
     )
