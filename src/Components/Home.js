@@ -11,20 +11,20 @@ function Home() {
         <div className="Home">
             <div className="Home_Learn">
                 <h1>LEARN</h1>
-                <img src={learn1}></img>
-                <img src={learn2}></img>
+                <img src={learn1} alt="learn"></img>
+                <img src={learn2} alt="learn"></img>
                 <p></p>
             </div>
             <div className="Home_Create">
                 <h1>CREATE</h1>
-                <img src={create1}></img>
-                <img src={create2}></img>
+                <img src={create1} alt="create"></img>
+                <img src={create2} alt="create"></img>
                 <p></p>
             </div>
             <div className="Home_Earn">
                 <h1>EARN</h1>
-                <img src={earn1}></img>
-                <img src={earn2}></img>
+                <img src={earn1} alt="earn"></img>
+                <img src={earn2} alt="earn"></img>
                 <p></p>
             </div>
         </div>
