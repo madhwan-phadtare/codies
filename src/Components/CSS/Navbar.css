@@ -2,11 +2,19 @@
     background-color: #6049ea;
     display: flex;
     justify-content: space-between;
+    padding: 1.5em;
+    height: 30px;
+    align-items: center; 
 }
 
 .Navbar_Toggle{
     background-color: rgb(209, 29, 29);
-    border-radius: 25%;
-    height: 50px;
-    width: 100px;
+    border-radius: 30%;
+    height: 25px;
+    width: 7em;
+    padding:1em;
+    font-size: .8em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
